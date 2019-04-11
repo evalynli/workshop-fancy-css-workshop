@@ -4,7 +4,7 @@
 CSS is run of the GPU, making it faster than JS which runs on the CPU. Additionally CSS has a high frame rate resulting in smoother animations?
 JS is attractive because it can do the complex animations with less effort, less amount of code.
 
-##What do the percentages within keyframes animations mean? How do you set how long the animation should take to run?
+## What do the percentages within keyframes animations mean? How do you set how long the animation should take to run?
 The percentages indicate the stage of the animation, the style settings that should be reached at that single percentage. If it is "percentage1, percentage2" that indicates the range at which the style should remain the same.
 
 # CS52 Workshops: Fancy CSS Flitz
